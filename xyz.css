@@ -1,0 +1,19 @@
+body {
+  margin: 50px;
+  background-color:#000;
+  font-size:16px;
+  font-weight:light;
+}
+.changelog {
+  font-family:system-ui;
+  color:#fff;
+}
+
+.title {
+  color: #d70071;
+  font-size:300%;
+}
+.add {
+  color:#9c4e97;
+  font-size:110%;
+}
